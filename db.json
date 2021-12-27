@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Foam Certification",
+      "day": "May 21st at 6:00pm",
+      "reminder": true
+    },
+    {
+      "text": "shiv",
+      "day": "test",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Satyam Birthday",
+      "day": "8th July 2021",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
